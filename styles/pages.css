@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+h3 {
+    text-align: center;
+}
+
+.in {
+    background-color: lightgray
+}
